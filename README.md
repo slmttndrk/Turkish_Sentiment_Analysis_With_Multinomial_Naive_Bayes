@@ -158,7 +158,17 @@ predictions wherever you want.
 
 <br>
 
-## 3. CONCLUSION
+
+## 3. IMPROVEMENTS
+
+*   The model score can be improved by increasing the number of "Turkish Stopwords" or "Beyazperde Dataset". 
+
+In both cases, model will be trained more efficiently. 
+
+<br> 
+
+
+## 4. CONCLUSION
 
 *   In this project, I learned the concept of Text Classification/Sentiment Analyzing. It also provided 
 
@@ -169,13 +179,6 @@ the crucial part of any Machine Learning model training.
 
 <br>
 
-## 4. IMPROVEMENTS
-
-*   The model score can be improved by increasing the number of "Turkish Stopwords" or "Beyazperde Dataset". 
-
-In both cases, model will be trained more efficiently. 
-
-<br>
 
 ## 5. RESOURCES/THANKS
 
