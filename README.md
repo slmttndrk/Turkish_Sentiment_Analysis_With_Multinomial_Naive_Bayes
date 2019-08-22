@@ -46,7 +46,7 @@ also splitted data preprocessing into sub steps.
 
 #### 2.2.1. LOAD DATASET
 		
-* [Dataset](https://github.com/slmttndrk/job1/blob/master/sample_beyazperde_dataset.csv) is in the form of csv file
+* [Dataset](https://github.com/slmttndrk/Turkish_Sentiment_Analysis_With_Multinomial_Naive_Bayes/blob/master/sample_beyazperde_dataset.csv) is in the form of csv file
 
 <br>
 
@@ -64,7 +64,7 @@ also splitted data preprocessing into sub steps.
 
 #### 2.2.4. ELIMINATE TURKISH STOPWORDS AND PUNCTUATIONS
 
-*   [Stopwords](https://github.com/slmttndrk/job1/blob/master/stopwords.txt) and punctuations are unnecessary for training model
+*   [Stopwords](https://github.com/slmttndrk/Turkish_Sentiment_Analysis_With_Multinomial_Naive_Bayes/blob/master/stopwords.txt) and punctuations are unnecessary for training model
 
 <br>
 
