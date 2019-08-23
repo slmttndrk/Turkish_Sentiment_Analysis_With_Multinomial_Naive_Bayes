@@ -24,7 +24,7 @@ this process, there are some Sentiment Analyzing steps.
 
 ### 2.1. DATA FETCHING
 
-*   The first rule is to get adequate dataset to train your model efficiently. Here, I have 4995 movie 
+*   The first rule is to get adequate dataset to train your model efficiently. Here, I have sample movie 
 
 critics from Beyazperde. You can find it from this [link](http://www.beyazperde.com/filmler/elestiriler-beyazperde/).
 
@@ -46,7 +46,7 @@ also splitted data preprocessing into sub steps.
 
 #### 2.2.1. LOAD DATASET
 		
-* [Dataset](https://github.com/slmttndrk/Turkish_Sentiment_Analysis_With_Multinomial_Naive_Bayes/blob/master/sample_beyazperde_dataset.csv) is in the form of csv file
+* [Dataset](https://github.com/slmttndrk/Turkish_Sentiment_Analysis_With_Multinomial_Naive_Bayes/blob/master/sample_beyazperde_dataset.csv) is in the form of csv file. For more dataset, please contact with [me](https://www.linkedin.com/in/selamettin-dirik/)
 
 <br>
 
@@ -64,7 +64,7 @@ also splitted data preprocessing into sub steps.
 
 #### 2.2.4. ELIMINATE TURKISH STOPWORDS AND PUNCTUATIONS
 
-*   [Stopwords](https://github.com/slmttndrk/Turkish_Sentiment_Analysis_With_Multinomial_Naive_Bayes/blob/master/stopwords.txt) and punctuations are unnecessary for training model
+*   [Stopwords](https://github.com/slmttndrk/Turkish_Sentiment_Analysis_With_Multinomial_Naive_Bayes/blob/master/stopwords.txt) and punctuations are unnecessary for training model. For more stopwords, please contact with [me](https://www.linkedin.com/in/selamettin-dirik/)
 
 <br>
 
